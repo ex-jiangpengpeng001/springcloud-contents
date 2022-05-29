@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/microcloud/microcloud-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud/microcloud-consumer-80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud/microcloud-consumer-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud/microcloud-consumer-hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud/microcloud-eureka-7001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud/microcloud-eureka-7002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud/microcloud-eureka-7003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud/microcloud-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud/microcloud-provider-company-8101/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud/microcloud-provider-dept-8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud/microcloud-provider-dept-8002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud/microcloud-provider-dept-8003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud/microcloud-provider-hystrix-8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud/microcloud-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud/microcloud-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microcloud/microcloud-zuul-gateway-9501/src/main/java" charset="UTF-8" />
+  </component>
+</project>

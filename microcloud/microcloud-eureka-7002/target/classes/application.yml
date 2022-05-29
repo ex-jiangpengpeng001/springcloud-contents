@@ -1,0 +1,21 @@
+server:
+  port: 7002
+
+spring:
+  application:
+    name: microcloud-eureka-7002
+  security:
+    basic:
+      enabled: true
+    user:
+      name: edmin
+      password: mldnjava
+
+eureka:
+  client:
+    service-url:                #与注册中心进行交互的地址，也就是监控页面
+      defaultZone: http://admin:hello@eureka-7001.com:7001/eureka,http://admin:hello@eureka-7003.com:7003/eureka
+    register-with-eureka: false #是否向注册中心注册自己
+    fetch-registry: false       #false-表示自己为注册中心
+  instance:                     # eureak实例定义
+    hostname: eureka-7002.com   # 定义Eureka实例所在的主机名称

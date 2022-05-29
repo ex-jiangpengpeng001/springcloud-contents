@@ -1,0 +1,3 @@
+cn/mldn/microcloud/config/ZuulConfig.class
+cn/mldn/microcloud/Zuul_9501_StartSpringCloudApplication.class
+cn/mldn/microcloud/filter/AuthorizedRequestFilter.class

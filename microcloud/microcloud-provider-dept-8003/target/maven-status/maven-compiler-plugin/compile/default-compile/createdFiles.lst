@@ -1,0 +1,5 @@
+cn/mldn/microcloud/service/IDeptService.class
+cn/mldn/microcloud/service/impl/DeptServiceImpl.class
+cn/mldn/microcloud/Dept_8003_StartSpringCloudApplication.class
+cn/mldn/microcloud/rest/DeptRest.class
+cn/mldn/microcloud/dao/IDeptDAO.class

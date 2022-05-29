@@ -1,0 +1,4 @@
+cn/mldn/microcloud/Consumer_80_StartSpringCloudApplication.class
+cn/mldn/microcloud/config/FeignClientConfig.class
+cn/mldn/microcloud/controller/ConsumerDeptController.class
+cn/mldn/commons/config/MyLoadBalanceConfig.class

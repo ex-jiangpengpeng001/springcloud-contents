@@ -6,11 +6,42 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="microcloud" />
+        <module name="microcloud-consumer-feign" />
+        <module name="microcloud-eureka-7003" />
+        <module name="microcloud-service" />
+        <module name="microcloud-eureka-7001" />
+        <module name="microcloud-eureka-7002" />
+        <module name="microcloud-api" />
+        <module name="microcloud-zuul-gateway-9501" />
+        <module name="microcloud-consumer-80" />
+        <module name="microcloud-consumer-hystrix" />
+        <module name="microcloud-security" />
+        <module name="microcloud-provider-dept-8001" />
+        <module name="microcloud-provider-dept-8003" />
+        <module name="microcloud-provider-dept-8002" />
+        <module name="microcloud-provider-hystrix-8001" />
+        <module name="microcloud-eureka-server" />
+        <module name="microcloud-provider-company-8101" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="microcloud" target="8" />
+      <module name="microcloud" target="1.8" />
+      <module name="microcloud-api" target="1.8" />
+      <module name="microcloud-consumer-80" target="1.8" />
+      <module name="microcloud-consumer-feign" target="1.8" />
+      <module name="microcloud-consumer-hystrix" target="1.8" />
+      <module name="microcloud-eureka-7001" target="1.8" />
+      <module name="microcloud-eureka-7002" target="1.8" />
+      <module name="microcloud-eureka-7003" target="1.8" />
+      <module name="microcloud-eureka-server" target="1.8" />
+      <module name="microcloud-provider-company-8101" target="1.8" />
+      <module name="microcloud-provider-dept-8001" target="1.8" />
+      <module name="microcloud-provider-dept-8002" target="1.8" />
+      <module name="microcloud-provider-dept-8003" target="1.8" />
+      <module name="microcloud-provider-hystrix-8001" target="1.8" />
+      <module name="microcloud-security" target="1.8" />
+      <module name="microcloud-service" target="1.8" />
+      <module name="microcloud-zuul-gateway-9501" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -36,7 +36,4 @@ spring:
       max-wait-millis: 200                          # 等待连接获取的最大超时时间
   application:
     name: microcloud-provider-dept
-  security:
-    basic:
-      enabled: true
 

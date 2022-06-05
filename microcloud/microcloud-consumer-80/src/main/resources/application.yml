@@ -5,5 +5,5 @@ eureka:
   client:
     register-with-eureka: false
     service-url:
-      defaultZone: http://admin:hello@eureka-7001.com:7001/eureka,http://admin:hello@eureka-7002.com:7002/eureka,http://admin:hello@eureka-7003.com:7003/eureka
+      defaultZone: http://edmin:mldnjava@eureka-7001.com:7001/eureka,http://edmin:mldnjava@eureka-7002.com:7002/eureka,http://edmin:mldnjava@eureka-7003.com:7003/eureka
 

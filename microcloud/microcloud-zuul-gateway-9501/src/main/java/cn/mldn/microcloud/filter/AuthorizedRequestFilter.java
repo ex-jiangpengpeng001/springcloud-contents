@@ -11,7 +11,7 @@ public class AuthorizedRequestFilter extends ZuulFilter {	// 进行授权访问�
 	@Override
 	public Object run() {	// 表示具体的过滤执行操作
 		RequestContext currentContext = RequestContext.getCurrentContext() ; // 获取当前请求的上下文
-		String auth = "mldnjava:hello"; // 认证的原始信息
+		String auth = "admin:hello"; // 认证的原始信息
 		byte[] encodedAuth = Base64.getEncoder()
 				.encode(auth.getBytes(Charset.forName("US-ASCII"))); // 进行一个加密的处理
 		// 在进行授权的头信息内容配置的时候加密的信息一定要与“Basic”之间有一个空格

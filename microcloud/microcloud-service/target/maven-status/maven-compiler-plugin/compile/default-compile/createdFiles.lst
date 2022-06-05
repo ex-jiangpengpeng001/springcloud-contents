@@ -1,4 +1,0 @@
-cn/mldn/service/IDeptClientService.class
-cn/mldn/service/fallback/IDeptClientServiceFallbackFactory.class
-cn/mldn/service/fallback/IDeptClientServiceFallbackFactory$1.class
-cn/mldn/commons/config/FeignClientConfig.class
